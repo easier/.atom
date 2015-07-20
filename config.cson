@@ -1,0 +1,19 @@
+"*":
+  "exception-reporting":
+    userId: "aa298e99-4a8e-043f-2195-2d31da4b5aa8"
+  welcome:
+    showOnStartup: false
+  core:
+    themes: [
+      "seti-ui"
+      "one-dark-syntax"
+    ]
+  editor:
+    invisibles: {}
+    fontFamily: "Monaco"
+    fontSize: 18
+    tabLength: 4
+  tabs:
+    usePreviewTabs: true
+  "vim-mode": {}
+  "autocomplete-plus": {}
