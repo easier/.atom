@@ -37,3 +37,7 @@
                     <div class="center sliding">{{about}}</div>
                 </div>
             </div>'''
+
+      'Snippet Name':
+        'prefix': 'hello'
+        'body': 'work work'

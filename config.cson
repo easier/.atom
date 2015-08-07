@@ -6,7 +6,7 @@
   core:
     themes: [
       "seti-ui"
-      "one-dark-syntax"
+      "solarized-light-syntax"
     ]
   editor:
     invisibles: {}
@@ -17,3 +17,4 @@
     usePreviewTabs: true
   "vim-mode": {}
   "autocomplete-plus": {}
+  "fuzzy-finder": {}
