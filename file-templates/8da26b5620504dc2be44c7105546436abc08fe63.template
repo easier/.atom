@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="zh_CN">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+	<title>支付成功</title>
+	<link rel="stylesheet" href="content/css/main.css" type="text/css" media="screen" charset="utf-8">
+</head>
+<body>
+
+</body>
+</html>
+
+<script src="content/js/jquery.min.js"></script>
+<script src="content/js/asset.min.js"></script>
+<script src="content/js/site.js"></script>

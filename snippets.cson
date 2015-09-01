@@ -41,3 +41,8 @@
       'Snippet Name':
         'prefix': 'hello'
         'body': 'work work'
+
+'.source.less':
+	'Image shortcut':
+		'prefix': 'url'
+		'body': 'url(../images/$1)'

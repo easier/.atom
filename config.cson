@@ -18,3 +18,9 @@
   "vim-mode": {}
   "autocomplete-plus": {}
   "fuzzy-finder": {}
+  "vim-surround": {}
+  jshint:
+    validateOnlyOnSave: true
+  minimap:
+    displayCodeHighlights: false
+    absoluteMode: true
